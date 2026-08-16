@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.mp4 binary
+*.html text
+*.md text
